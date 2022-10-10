@@ -26,9 +26,9 @@ export function registerMenu(
   const newConfig = { ...config, ...(customConfig || {}) }
 
   // 注册 menu
-  if (MENU_ITEM_FACTORIES[key] != null) {
-    throw new Error(`Duplicated key '${key}' in menu items`)
-  }
+  // if (MENU_ITEM_FACTORIES[key] != null) {
+  //   throw new Error(`Duplicated key '${key}' in menu items`)
+  // }
   MENU_ITEM_FACTORIES[key] = factory
 
   // 将 config 保存到全局
