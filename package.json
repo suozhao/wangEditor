@@ -21,7 +21,7 @@
     "cypress:run": "cypress run",
     "e2e:dev": "concurrently \"yarn example\" \"yarn run cypress:open\"",
     "e2e": "concurrently \"yarn example\" \"yarn run cypress:run\"",
-    "example": "lerna exec --scope @wangeditor/editor -- yarn run example"
+    "example": "lerna exec --scope @suozhao/fork-editor -- yarn run example"
   },
   "workspaces": [
     "packages/*"

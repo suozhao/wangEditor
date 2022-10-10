@@ -1,5 +1,5 @@
 {
-  "name": "@wangeditor/editor",
+  "name": "@suozhao/fork-editor",
   "version": "5.1.21",
   "description": "Web rich text editor, Web 富文本编辑器",
   "keywords": [
@@ -51,13 +51,13 @@
   "dependencies": {
     "@uppy/core": "^2.1.1",
     "@uppy/xhr-upload": "^2.0.3",
-    "@wangeditor/basic-modules": "^1.1.6",
-    "@wangeditor/code-highlight": "^1.0.3",
-    "@wangeditor/core": "^1.1.17",
-    "@wangeditor/list-module": "^1.0.5",
-    "@wangeditor/table-module": "^1.1.4",
-    "@wangeditor/upload-image-module": "^1.0.2",
-    "@wangeditor/video-module": "^1.1.4",
+    "@suozhao/fork-basic-modules": "^1.1.6",
+    "@suozhao/fork-code-highlight": "^1.0.3",
+    "@suozhao/fork-core": "^1.1.17",
+    "@suozhao/fork-list-module": "^1.0.5",
+    "@suozhao/fork-table-module": "^1.1.4",
+    "@suozhao/fork-upload-image-module": "^1.0.2",
+    "@suozhao/fork-video-module": "^1.1.4",
     "dom7": "^3.0.0",
     "is-hotkey": "^0.2.0",
     "lodash.camelcase": "^4.3.0",
