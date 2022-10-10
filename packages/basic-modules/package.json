@@ -53,5 +53,6 @@
   },
   "devDependencies": {
     "@types/is-url": "^1.2.29"
-  }
+  },
+  "gitHead": "65f36e970a3b75e2e566b10439a2010a6832c149"
 }

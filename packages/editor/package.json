@@ -49,8 +49,6 @@
     "url": "https://github.com/wangeditor-team/wangEditor/issues"
   },
   "dependencies": {
-    "@uppy/core": "^2.1.1",
-    "@uppy/xhr-upload": "^2.0.3",
     "@suozhao/fork-basic-modules": "^1.1.6",
     "@suozhao/fork-code-highlight": "^1.0.3",
     "@suozhao/fork-core": "^1.1.17",
@@ -58,6 +56,8 @@
     "@suozhao/fork-table-module": "^1.1.4",
     "@suozhao/fork-upload-image-module": "^1.0.2",
     "@suozhao/fork-video-module": "^1.1.4",
+    "@uppy/core": "^2.1.1",
+    "@uppy/xhr-upload": "^2.0.3",
     "dom7": "^3.0.0",
     "is-hotkey": "^0.2.0",
     "lodash.camelcase": "^4.3.0",
@@ -70,5 +70,6 @@
     "nanoid": "^3.2.0",
     "slate": "^0.72.0",
     "snabbdom": "^3.1.0"
-  }
+  },
+  "gitHead": "65f36e970a3b75e2e566b10439a2010a6832c149"
 }

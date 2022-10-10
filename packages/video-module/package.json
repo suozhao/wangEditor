@@ -41,12 +41,13 @@
     "url": "https://github.com/wangeditor-team/wangEditor/issues"
   },
   "peerDependencies": {
+    "@suozhao/fork-core": "1.x",
     "@uppy/core": "^2.1.4",
     "@uppy/xhr-upload": "^2.0.7",
-    "@suozhao/fork-core": "1.x",
     "dom7": "^3.0.0",
     "nanoid": "^3.2.0",
     "slate": "^0.72.0",
     "snabbdom": "^3.1.0"
-  }
+  },
+  "gitHead": "65f36e970a3b75e2e566b10439a2010a6832c149"
 }
