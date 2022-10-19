@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wangeditor-team/wangEditor.git"
+    "url": "git+https://github.com/suozhao/wangEditor.git"
   },
   "scripts": {
     "test": "jest",
@@ -54,5 +54,5 @@
   "devDependencies": {
     "@types/is-url": "^1.2.29"
   },
-  "gitHead": "706e7bb93c7a5b31c882787e38193cf1aacbebe4"
+  "gitHead": "3d2e90768214bb5f67ec330e3d2019f32baee2dd"
 }
