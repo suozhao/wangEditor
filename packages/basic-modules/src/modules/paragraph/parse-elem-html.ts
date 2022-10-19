@@ -4,7 +4,7 @@
  */
 
 import { Descendant, Text } from 'slate'
-import { IDomEditor } from '@wangeditor/core'
+import { IDomEditor } from '@suozhao/fork-core'
 import { ParagraphElement } from './custom-types'
 import $, { DOMElement } from '../../utils/dom'
 
@@ -28,6 +28,7 @@ function parseParagraphHtml(
 
   return {
     type: 'paragraph',
+    style: elem.getAttribute('style'),
     // @ts-ignore
     children,
   }

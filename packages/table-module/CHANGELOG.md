@@ -3,15 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [1.1.4](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/table-module@1.1.3...@wangeditor/table-module@1.1.4) (2022-09-27)
+## [1.1.4](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-table-module@1.1.3...@suozhao/fork-table-module@1.1.4) (2022-09-27)
 
-**Note:** Version bump only for package @wangeditor/table-module
-
-
+**Note:** Version bump only for package @suozhao/fork-table-module
 
 
 
-## [1.1.3](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/table-module@1.1.2...@wangeditor/table-module@1.1.3) (2022-09-15)
+
+
+## [1.1.3](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-table-module@1.1.2...@suozhao/fork-table-module@1.1.3) (2022-09-15)
 
 
 ### Bug Fixes
@@ -22,15 +22,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.2](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/table-module@1.1.1...@wangeditor/table-module@1.1.2) (2022-09-14)
+## [1.1.2](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-table-module@1.1.1...@suozhao/fork-table-module@1.1.2) (2022-09-14)
 
-**Note:** Version bump only for package @wangeditor/table-module
-
-
+**Note:** Version bump only for package @suozhao/fork-table-module
 
 
 
-## [1.1.1](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/table-module@1.1.0...@wangeditor/table-module@1.1.1) (2022-07-11)
+
+
+## [1.1.1](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-table-module@1.1.0...@suozhao/fork-table-module@1.1.1) (2022-07-11)
 
 
 ### Bug Fixes
@@ -41,7 +41,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.1.0](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/table-module@1.0.1...@wangeditor/table-module@1.1.0) (2022-05-25)
+# [1.1.0](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-table-module@1.0.1...@suozhao/fork-table-module@1.1.0) (2022-05-25)
 
 
 ### Bug Fixes
@@ -67,7 +67,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * 单元格内包含复杂样式内容时按tab未跳转到下一个单元格 ([db5e6f2](https://github.com/wangeditor-team/wangEditor/commit/db5e6f20c2c081d193fa80077f91d121be98c2a0))
 * 更新各包之间依赖版本 ([75c552c](https://github.com/wangeditor-team/wangEditor/commit/75c552cc8ed54765bebb86a7ec5329a7fc79e85f))
 * 两个表格不能紧挨着 ([5955b61](https://github.com/wangeditor-team/wangEditor/commit/5955b614cf92f65c9ebea47e6719047f3c0d27ea))
-* 修复 pnpm 安装 @wangeditor/editor 出现警告的问题 ([4087fbe](https://github.com/wangeditor-team/wangEditor/commit/4087fbee01c76bdd55e747a5e86c5e4a8d6a8353))
+* 修复 pnpm 安装 @suozhao/fork-editor 出现警告的问题 ([4087fbe](https://github.com/wangeditor-team/wangEditor/commit/4087fbee01c76bdd55e747a5e86c5e4a8d6a8353))
 * 移除了每个包下的 publishConfig directory 配置 ([16559f0](https://github.com/wangeditor-team/wangEditor/commit/16559f052545c111318be760e64291a521bdcc65))
 * 优化 custom-types.d.ts 中类型声明，修复测试文件 ts 报错 ([3a6c455](https://github.com/wangeditor-team/wangEditor/commit/3a6c4553245bc734dae1e17d605af389971782a2))
 * 优化表格 ([f240ca7](https://github.com/wangeditor-team/wangEditor/commit/f240ca71e31ccdea947233a767e3371434af0b6f))

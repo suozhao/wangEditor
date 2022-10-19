@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [1.1.17](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/core@1.1.16...@wangeditor/core@1.1.17) (2022-10-04)
+## [1.1.17](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-core@1.1.16...@suozhao/fork-core@1.1.17) (2022-10-04)
 
 
 ### Bug Fixes
@@ -15,7 +15,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.16](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/core@1.1.15...@wangeditor/core@1.1.16) (2022-09-27)
+## [1.1.16](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-core@1.1.15...@suozhao/fork-core@1.1.16) (2022-09-27)
 
 
 ### Bug Fixes
@@ -26,23 +26,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.15](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/core@1.1.14...@wangeditor/core@1.1.15) (2022-09-27)
+## [1.1.15](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-core@1.1.14...@suozhao/fork-core@1.1.15) (2022-09-27)
 
-**Note:** Version bump only for package @wangeditor/core
-
-
-
-
-
-## [1.1.14](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/core@1.1.13...@wangeditor/core@1.1.14) (2022-09-16)
-
-**Note:** Version bump only for package @wangeditor/core
+**Note:** Version bump only for package @suozhao/fork-core
 
 
 
 
 
-## [1.1.13](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/core@1.1.12...@wangeditor/core@1.1.13) (2022-09-15)
+## [1.1.14](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-core@1.1.13...@suozhao/fork-core@1.1.14) (2022-09-16)
+
+**Note:** Version bump only for package @suozhao/fork-core
+
+
+
+
+
+## [1.1.13](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-core@1.1.12...@suozhao/fork-core@1.1.13) (2022-09-15)
 
 
 ### Bug Fixes
@@ -54,7 +54,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.12](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/core@1.1.11...@wangeditor/core@1.1.12) (2022-08-30)
+## [1.1.12](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-core@1.1.11...@suozhao/fork-core@1.1.12) (2022-08-30)
 
 
 ### Bug Fixes
@@ -65,15 +65,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.11](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/core@1.1.10...@wangeditor/core@1.1.11) (2022-07-27)
+## [1.1.11](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-core@1.1.10...@suozhao/fork-core@1.1.11) (2022-07-27)
 
-**Note:** Version bump only for package @wangeditor/core
-
-
+**Note:** Version bump only for package @suozhao/fork-core
 
 
 
-## [1.1.10](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/core@1.1.9...@wangeditor/core@1.1.10) (2022-07-27)
+
+
+## [1.1.10](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-core@1.1.9...@suozhao/fork-core@1.1.10) (2022-07-27)
 
 
 ### Bug Fixes
@@ -85,7 +85,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.9](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/core@1.1.8...@wangeditor/core@1.1.9) (2022-07-22)
+## [1.1.9](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-core@1.1.8...@suozhao/fork-core@1.1.9) (2022-07-22)
 
 
 ### Bug Fixes
@@ -96,7 +96,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.8](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/core@1.1.7...@wangeditor/core@1.1.8) (2022-07-18)
+## [1.1.8](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-core@1.1.7...@suozhao/fork-core@1.1.8) (2022-07-18)
 
 
 ### Bug Fixes
@@ -107,7 +107,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.7](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/core@1.1.6...@wangeditor/core@1.1.7) (2022-07-16)
+## [1.1.7](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-core@1.1.6...@suozhao/fork-core@1.1.7) (2022-07-16)
 
 
 ### Bug Fixes
@@ -119,7 +119,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.6](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/core@1.1.5...@wangeditor/core@1.1.6) (2022-07-14)
+## [1.1.6](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-core@1.1.5...@suozhao/fork-core@1.1.6) (2022-07-14)
 
 
 ### Bug Fixes
@@ -130,7 +130,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.5](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/core@1.1.4...@wangeditor/core@1.1.5) (2022-07-13)
+## [1.1.5](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-core@1.1.4...@suozhao/fork-core@1.1.5) (2022-07-13)
 
 
 ### Bug Fixes
@@ -141,15 +141,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.4](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/core@1.1.3...@wangeditor/core@1.1.4) (2022-07-12)
+## [1.1.4](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-core@1.1.3...@suozhao/fork-core@1.1.4) (2022-07-12)
 
-**Note:** Version bump only for package @wangeditor/core
-
-
+**Note:** Version bump only for package @suozhao/fork-core
 
 
 
-## [1.1.3](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/core@1.1.2...@wangeditor/core@1.1.3) (2022-07-11)
+
+
+## [1.1.3](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-core@1.1.2...@suozhao/fork-core@1.1.3) (2022-07-11)
 
 
 ### Bug Fixes
@@ -161,7 +161,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.2](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/core@1.1.1...@wangeditor/core@1.1.2) (2022-07-11)
+## [1.1.2](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-core@1.1.1...@suozhao/fork-core@1.1.2) (2022-07-11)
 
 
 ### Bug Fixes
@@ -174,7 +174,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.1.1](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/core@1.1.0...@wangeditor/core@1.1.1) (2022-06-02)
+## [1.1.1](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-core@1.1.0...@suozhao/fork-core@1.1.1) (2022-06-02)
 
 
 ### Bug Fixes
@@ -185,7 +185,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.1.0](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/core@1.0.1...@wangeditor/core@1.1.0) (2022-05-25)
+# [1.1.0](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-core@1.0.1...@suozhao/fork-core@1.1.0) (2022-05-25)
 
 
 ### Bug Fixes

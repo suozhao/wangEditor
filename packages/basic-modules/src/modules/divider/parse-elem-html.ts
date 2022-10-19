@@ -5,7 +5,7 @@
 
 import { Descendant } from 'slate'
 import $, { DOMElement } from '../../utils/dom'
-import { IDomEditor } from '@wangeditor/core'
+import { IDomEditor } from '@suozhao/fork-core'
 import { DividerElement } from './custom-types'
 
 function parseHtml(elem: DOMElement, children: Descendant[], editor: IDomEditor): DividerElement {

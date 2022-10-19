@@ -5,11 +5,11 @@
 
 import { Element } from 'slate'
 
-function pToHtml(elem: Element, childrenHtml: string): string {
+function pToHtml(elem: any, childrenHtml: string): string {
   if (childrenHtml === '') {
-    return '<p><br></p>'
+    return `<p style="${elem.style}"><br></p>`
   }
-  return `<p>${childrenHtml}</p>`
+  return `<p style="${elem.style}">${childrenHtml}</p>`
 }
 
 export const pToHtmlConf = {

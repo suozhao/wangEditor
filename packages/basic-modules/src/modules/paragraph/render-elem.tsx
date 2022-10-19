@@ -5,7 +5,7 @@
 
 import { Element as SlateElement } from 'slate'
 import { jsx, VNode } from 'snabbdom'
-import { IDomEditor } from '@wangeditor/core'
+import { IDomEditor } from '@suozhao/fork-core'
 
 /**
  * render paragraph elem
@@ -15,11 +15,11 @@ import { IDomEditor } from '@wangeditor/core'
  * @returns vnode
  */
 function renderParagraph(
-  elemNode: SlateElement,
+  elemNode: any,
   children: VNode[] | null,
   editor: IDomEditor
 ): VNode {
-  const vnode = <p>{children}</p>
+  const vnode = <p style={elemNode.style}>{children}</p>
   return vnode
 }
 

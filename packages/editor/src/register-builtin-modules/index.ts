@@ -4,27 +4,27 @@
  */
 
 // basic-modules
-import '@wangeditor/basic-modules/dist/css/style.css'
-import basicModules from '@wangeditor/basic-modules'
+import '@suozhao/fork-basic-modules/dist/css/style.css'
+import basicModules from '@suozhao/fork-basic-modules'
 
-import '@wangeditor/list-module/dist/css/style.css'
-import wangEditorListModule from '@wangeditor/list-module'
+import '@suozhao/fork-list-module/dist/css/style.css'
+import wangEditorListModule from '@suozhao/fork-list-module'
 
 // table-module
-import '@wangeditor/table-module/dist/css/style.css'
-import wangEditorTableModule from '@wangeditor/table-module'
+import '@suozhao/fork-table-module/dist/css/style.css'
+import wangEditorTableModule from '@suozhao/fork-table-module'
 
 // video-module
-import '@wangeditor/video-module/dist/css/style.css'
-import wangEditorVideoModule from '@wangeditor/video-module'
+import '@suozhao/fork-video-module/dist/css/style.css'
+import wangEditorVideoModule from '@suozhao/fork-video-module'
 
 // upload-image-module
-import '@wangeditor/upload-image-module/dist/css/style.css'
-import wangEditorUploadImageModule from '@wangeditor/upload-image-module'
+import '@suozhao/fork-upload-image-module/dist/css/style.css'
+import wangEditorUploadImageModule from '@suozhao/fork-upload-image-module'
 
 // code-highlight
-import '@wangeditor/code-highlight/dist/css/style.css'
-import { wangEditorCodeHighlightModule } from '@wangeditor/code-highlight'
+import '@suozhao/fork-code-highlight/dist/css/style.css'
+import { wangEditorCodeHighlightModule } from '@suozhao/fork-code-highlight'
 
 import registerModule from './register'
 

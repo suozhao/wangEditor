@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [1.0.5](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/list-module@1.0.4...@wangeditor/list-module@1.0.5) (2022-09-27)
+## [1.0.5](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-list-module@1.0.4...@suozhao/fork-list-module@1.0.5) (2022-09-27)
 
 
 ### Bug Fixes
@@ -14,6 +14,6 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.4](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/list-module@1.0.3...@wangeditor/list-module@1.0.4) (2022-09-27)
+## [1.0.4](https://github.com/wangeditor-team/wangEditor/compare/@suozhao/fork-list-module@1.0.3...@suozhao/fork-list-module@1.0.4) (2022-09-27)
 
-**Note:** Version bump only for package @wangeditor/list-module
+**Note:** Version bump only for package @suozhao/fork-list-module
