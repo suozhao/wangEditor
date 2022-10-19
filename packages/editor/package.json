@@ -1,6 +1,6 @@
 {
   "name": "@suozhao/fork-editor",
-  "version": "5.1.21",
+  "version": "5.2.0",
   "description": "Web rich text editor, Web 富文本编辑器",
   "keywords": [
     "wangeditor",
@@ -49,13 +49,13 @@
     "url": "https://github.com/wangeditor-team/wangEditor/issues"
   },
   "dependencies": {
-    "@suozhao/fork-basic-modules": "^1.1.6",
-    "@suozhao/fork-code-highlight": "^1.0.3",
-    "@suozhao/fork-core": "^1.1.17",
-    "@suozhao/fork-list-module": "^1.0.5",
-    "@suozhao/fork-table-module": "^1.1.4",
-    "@suozhao/fork-upload-image-module": "^1.0.2",
-    "@suozhao/fork-video-module": "^1.1.4",
+    "@suozhao/fork-basic-modules": "^1.2.0",
+    "@suozhao/fork-code-highlight": "^1.1.0",
+    "@suozhao/fork-core": "^1.2.0",
+    "@suozhao/fork-list-module": "^1.1.0",
+    "@suozhao/fork-table-module": "^1.2.0",
+    "@suozhao/fork-upload-image-module": "^1.1.0",
+    "@suozhao/fork-video-module": "^1.2.0",
     "@uppy/core": "^2.1.1",
     "@uppy/xhr-upload": "^2.0.3",
     "dom7": "^3.0.0",
